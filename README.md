@@ -35,7 +35,7 @@ Copy the sample environment file to .env:
 
 Update .env with your PostgreSQL connection details.
 
-4. **Create and configure the .env file:**
+4. **Commands to run the project:**
 
 ```sh
      go run main.go
