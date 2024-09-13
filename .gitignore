@@ -1,0 +1,53 @@
+# Binaries for programs and plugins
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+
+# Compiled object files
+*.o
+*.a
+*.out
+
+# Go build artifacts
+bin/
+build/
+*.log
+*.tmp
+
+# Dependency directories
+vendor/
+
+# Environment files
+.env
+.env.*
+
+# IDE/editor specific files
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# Go module files
+go.sum
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Debugging files
+*.heap
+*.pprof
+
+# Coverage reports
+*.cover
+*.coverage
+
+# Cache files
+*.cache
+*.tmp
+
+# Local configuration
+local_config.json
